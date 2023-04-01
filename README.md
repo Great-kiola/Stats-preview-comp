@@ -6,7 +6,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="973" alt="image" src="https://user-images.githubusercontent.com/117322790/229300989-53d14602-aef9-407d-b679-22f476774249.png">
+
 
 ### The challenge
 
