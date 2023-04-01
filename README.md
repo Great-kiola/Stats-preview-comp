@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Great-kiola/Stats-preview-comp)
-- Live Site URL: [Add live site URL here](https://stats-preview-comp.vercel.app/)
+- Solution URL: [Github Url](https://github.com/Great-kiola/Stats-preview-comp)
+- Live Site URL: [Deployed Url](https://stats-preview-comp.vercel.app/)
 
 
 ## My process
