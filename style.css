@@ -34,8 +34,6 @@ body {
     
 }
 
-
-
 .container {
     width: 50%;
     margin-left: -50px;
@@ -50,6 +48,7 @@ h1{
 p {
     line-height: 24px;
     color: hsla(0, 0%, 100%, 0.75);
+    opacity: 50%;
 }
 
 .text {
